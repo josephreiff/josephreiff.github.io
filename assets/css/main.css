@@ -1459,7 +1459,9 @@
 					text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.1);
 					width: 48px;
 				}
-
+				ul.social li a.fa-envelope {
+					background-color: #2DAAE4;
+				}
 				ul.social li a.fa-twitter {
 					background-color: #2DAAE4;
 				}
@@ -1824,12 +1826,12 @@
 		/* Wrappers */
 
 			.wrapper {
-				padding: 8em 0 8em 0;
+				padding: 4em 0 4em 0;
 				text-align: center;
 			}
 
 				.wrapper.first {
-					padding-top: 12em;
+					padding-top: 8em;
 				}
 
 		/* Nav */
